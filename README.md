@@ -1,7 +1,7 @@
 # QuotableAPI- Question on Automated Test Implementation
 In this repo you can find Postman collections which are describing the contracts to be tested.
 
-Folder Structure
+#Folder Structure
 
 QuotableAPI/
 ├── QuotableAPI.json        <- Containes all test-cases 
